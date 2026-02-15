@@ -6,7 +6,9 @@ Driven to make a meaningful change in the development industry.
 ## 🛠 Skills
 - Python  
 - C  
-- C++  
+- C++
+- PHP
+- js
 
 ## 🚀 Projects
 - [keyLogger](#) – a KeyLogger developed on linux using Vimas part of cybersecurity research & learning  
