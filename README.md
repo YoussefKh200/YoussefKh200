@@ -9,7 +9,7 @@ Driven to make a meaningful change in the development industry.
 - C++  
 
 ## 🚀 Projects
-- [AI-agen](#) – My first AI model  
+- [keyLogger](#) – a KeyLogger developed on linux using Vimas part of cybersecurity research & learning  
 - [XAUUSD-AI-Model](#) – Applied AI in financial modeling  
 
 ## 🎯 Goal
