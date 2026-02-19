@@ -11,7 +11,7 @@ Driven to make a meaningful change in the development industry.
 - js
 
 ## 🚀 Projects
-- [keyLogger](#) – a KeyLogger developed on linux using Vimas part of cybersecurity research & learning  
+- [keyLogger](#) – a KeyLogger developed on linux using Vim as part of cybersecurity research & learning  
 - [XAUUSD-AI-Model](#) – Applied AI in financial modeling  
 
 ## 🎯 Goal
