@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef!
 
-Young developer passionate about Artificial Intelligence and Machine Learning.  
+Young developer passionate about Artificial Intelligence and Machine Learning & Quant Finance.  
 Driven to make a meaningful change in the development industry.  
 
 ## 🛠 Skills
